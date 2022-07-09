@@ -5,6 +5,7 @@
 
 This image is sourced from the official [Alpine Linux docker repository available on Docker Hub](https://hub.docker.com/_/alpine/).
 
+
 <img src="http://alpinelinux.org/alpinelinux-logo.svg" width="400px" />
 
 ---
